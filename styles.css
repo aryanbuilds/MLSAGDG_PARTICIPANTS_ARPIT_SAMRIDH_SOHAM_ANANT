@@ -15,7 +15,7 @@ html,body{
 main{
     /* height: 100%;  comment out so that it covers whole page and not get resticted due to image*/ 
     width: 100%;
-    background-color: #E6FF94;
+    background-color: red;
 }
 
 
